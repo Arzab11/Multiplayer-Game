@@ -1,6 +1,7 @@
 This is a simple multiplayer tile-based shooter game built using Node.js, Socket.io, and HTML5 Canvas. Players move around a map, shoot bullets in a direction, and interact with other players. The game features real-time updates and multiplayer interactions.
 
 Features
+
 Multiplayer: Multiple players can join the same game and interact with each other in real-time.
 Tile-based map: The game map is made up of tiles, dynamically rendered based on a map file.
 Player movement: Players can move in four directions (up, down, left, right) using the WASD keys.
